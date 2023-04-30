@@ -1,3 +1,4 @@
 baseURL = 'https://timothymarias.live'
 languageCode = 'en-us'
 title = 'Timothy Marias'
+theme="timmarias"
