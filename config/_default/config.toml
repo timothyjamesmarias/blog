@@ -1,0 +1,11 @@
+baseURL = 'https://timothymarias.live'
+languageCode = 'en-us'
+title = 'Timothy Marias'
+theme="blowfish"
+[author]
+name = "Timothy Marias"
+image = "img/profile.jpg"
+headline = "Software Developer"
+links = [
+  { github = "https://github.com/timothyjamesmarias" }
+]
